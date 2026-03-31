@@ -35,3 +35,23 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### O.S. e Logs ###
+.DS_Store
+Thumbs.db
+*.log
+logs/
+
+### Variáveis sensíveis e Ambiente ###
+.env
+.env.*
+
+### Outros Executáveis / JVM Crashes ###
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+hs_err_pid*
+replay_pid*
