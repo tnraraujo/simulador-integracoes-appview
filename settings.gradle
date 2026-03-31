@@ -1,0 +1,11 @@
+rootProject.name = 'simulador-integracoes-appview'
+
+include 'modulos:alfresco-ecm'
+include 'modulos:pega-bpm'
+include 'modulos:ccm'
+include 'modulos:prestador'
+include 'modulos:portal-pj'
+include 'modulos:bod-seguros'
+include 'modulos:postgresql-simulator'
+include 'modulos:azure-service-bus-simulator'
+include 'commons-lib'
